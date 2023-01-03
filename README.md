@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm MrMarf</h1>
 <h3 align="center">A Computer Engineering student from The Netherlands</h3>
+<h3 align="center">Studying at:</h3>
+<p align="center"> <a href="https://www.uu.nl/en" target="_blank" rel="noreferrer"> <img src="https://www.uu.nl/sites/default/files/styles/original_image/public/uu-logo-en-geenwitruimte.png" alt="csharp" width="40" height="40"/> </a>
 
 <br/>
 <h3 align="left">Languages and Tools:</h3>
