@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm MrMarf</h1>
-<h3 align="center">A Computer Engineering student from The Netherlands</h3>
+<h3 align="center">A Computer Science ( + Gametechnology ) student from The Netherlands</h3>
 
 <br/>
 
